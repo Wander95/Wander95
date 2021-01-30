@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://wanderdev.com/](https://wanderdev.com/)
 
-- 💬 Ask me about **Angular, Nestjs**
+
 
 - 📫 How to reach me **wander.sanchez@outlook.com**
 
